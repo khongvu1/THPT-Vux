@@ -1,0 +1,121 @@
+.boder{
+    width: 30%;
+    padding: 20px 0px;
+    margin: 15% 20% ;
+    border: 2px solid white;
+    height: 100%;
+    text-align: center;
+    border-radius: 5px;
+}
+.boder h2{
+    margin-top: 0px;
+    color: white;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    background-position: center;
+    background-image: url(img/bnuw5sqy.png);
+    background-repeat: no-repeat ;
+    background-size: cover;
+}
+.boder input[type="text"] {
+    background: url(img/bnuw5sqy.png);
+    background-image: url(../images/m.png);
+    background-position-x: 0px;
+    background-position-y: 5px;
+    background-size: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    color: rgb(248, 248, 248);
+    outline: none;
+    border: none;
+    border-bottom: 1px solid white;
+    margin-bottom: 10px;
+    width: 75%;
+    padding-bottom: 10px;
+}
+.boder input[type="password"] {
+    background: url(img/bnuw5sqy.png);
+    background-image: url(../images/m.png);
+    background-position-x: 0px;
+    background-position-y: 5px;
+    background-size: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    color: white;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid white;
+    margin-bottom: 10px;
+    width: 75%;
+    padding-bottom: 10px;
+    
+}
+form{
+    display:block;
+}
+.boder label[for="vehicle1"] {
+    color: white;
+    font-size: 13px;
+}
+.boder .a{
+    padding-left: 30px;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    font-size: 13px;
+}
+.form-submit{
+    margin-top: 20px;
+    width: 40%;
+}
+.or{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    border-radius: 50%;
+}
+.or p{
+    text-align: center;
+}
+.fb{
+    width: 100px;
+    height: 30px;
+}
+.gg{
+width: 100px;
+height: 30px;
+}
+.logo{
+    
+    justify-content: space-evenly;
+    width: 100%;
+}
+.logo a{
+    margin: 0;
+    padding: 0;
+}
+.dk{
+    border: 1px solid white;
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    padding: 3px 10px;
+    font-size: 13px;
+    background: white;
+}
+.dc{
+    color: white;
+}
+.dn{
+    color: white;
+    text-decoration: none;
+}
+.qdn{
+    color: white;
+    text-decoration: none;
+}
